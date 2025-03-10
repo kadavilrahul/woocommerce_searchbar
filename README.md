@@ -1,4 +1,4 @@
-# Custom Product Search for WordPress
+# Custom Product Search for Woocommerce
 
 This plugin adds a custom product search functionality to your WordPress site, allowing you to search both WordPress posts/products and external PostgreSQL database products.
 
