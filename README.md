@@ -1,6 +1,6 @@
 # Custom Product Search for Woocommerce
 
-This plugin adds a custom product search functionality to your WordPress site, allowing you to search both WordPress posts/products and external PostgreSQL database products.
+This plugin adds a custom product search functionality to your WordPress site, allowing you to search both WordPress posts/products using MySQl Query and also external PostgreSQL database products that need to be created first.
 
 ## Installation
 
